@@ -15,6 +15,8 @@ o	Ofrecer a profesionistas una herramienta mediante la cual puedan instruir su c
 
 SCREENSHOTS:
 
+<br>
+
 ![Screenshot 2021-12-07 220303 (1)](https://user-images.githubusercontent.com/45349730/145152502-413e9c32-a942-48ce-91ec-e621f9343841.png)
 
 <br>
