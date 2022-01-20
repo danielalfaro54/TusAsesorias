@@ -1,14 +1,13 @@
 # Tus Asesorias
 
-Tus Asesorías es una aplicación web que sirve como plataforma de aprendizaje en línea. Esta hecha para personas que deseen adquirir conocimiento en algún tema de su preferencia, o bien, para profesionistas (instructores) que deseen compartir su experiencia en un determinado tema, al ofrecer asesorías y ganar dinero impartiendolas.
-En el sitio web, se permite a instructores crear cursos en línea sobre sus temas preferidos. Los estudiantes toman cursos principalmente para mejorar las habilidades relacionadas con el trabajo, y los instructores pueden participar e interactuar con los estudiantes a través de reuniones en línea por medio de Zoom, teniendo la posibilidad de poder cargar archivos PDF, audio o ZIP, como complemento del material de sus cursos.
+Tus Asesorías es una aplicación web que sirve como plataforma de aprendizaje en línea. 
+En el sitio web, se permite a instructores crear cursos en línea sobre sus temas preferidos. Los estudiantes toman cursos para mejorar sus habilidades en determinados temas, y los instructores pueden participar e interactuar con los estudiantes a través de reuniones en línea por medio de Zoom, teniendo la posibilidad de poder cargar archivos PDF, audio o ZIP, como complemento del material de sus cursos.
 
 Objetivos generales de la plataforma:
 
 o	Ayudar a los estudiantes a sobrellevar el proceso de clases en línea.<br>
 o	Desempeñarse como mecanismo de adaptación a la nueva normalidad.<br>
 o	Exponer una nueva perspectiva sobre la educación interactiva.<br>
-o	Orientar a la comunidad estudiantil hacia formas de aprendizaje menos tradicionales.<br>
 o	Ofrecer a profesionistas una herramienta mediante la cual puedan instruir su conocimiento y recibir una compensación económica a partir de ello.
 
 <br>
